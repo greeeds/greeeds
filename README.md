@@ -12,7 +12,7 @@
 
 **Some of my sites**
 
-- [PandoraNext](https://next.mobai999.top/): `https://next.mobai999.top`
+- [One Api](https://oneapi.mobai999.top): `https://oneapi.mobai999.top`
 
 - [Chatgpt-Next-Web](https://github.com/greeeds/ChatGPT-Next-Web): `https://next-web.mobai999.top/`
 
