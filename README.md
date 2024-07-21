@@ -12,7 +12,7 @@
 
 **Some of my sites**
 
-- [New Api](https://newapi.mobai999.top): `https://newapi.mobai999.top`ai999.top`
+- [New Api](https://newapi.mobai999.top): `https://newapi.mobai999.top`
 
 - [Lobe Chat](https://github.com/greeeds/lobe-chat): `https://lobe.mobai999.top`
 
