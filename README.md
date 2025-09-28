@@ -12,12 +12,6 @@
 
 **Some of my sites**
 
-- [New Api](https://newapi.mobai999.top): `https://newapi.mobai999.top`
-
-- [Lobe Chat](https://github.com/greeeds/lobe-chat): `https://lobe.mobai999.top`
-
-- [Chatgpt-Next-Web](https://github.com/greeeds/ChatGPT-Next-Web): `https://next-web.mob
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/greeeds/greeeds/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/greeeds/greeeds/output/github-contribution-grid-snake.svg" />
